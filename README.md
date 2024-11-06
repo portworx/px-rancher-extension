@@ -8,7 +8,12 @@ This extension provides monitoring capabilities for Portworx storage in Rancher 
 
 In Rancher UI, navigate to Extensions > Manage Repositories > Create
 Provide a Name for the repository and select "Git repository containing helm chart or custom template definition"
+
 Provide the following values:
-Git Repo URL: https://github.com/portworx/px-rancher-extension.git
-Git Branch: main
+
+> Git Repo URL: https://github.com/portworx/px-rancher-extension.git
+> Git Branch: main
+
+Now click Create.
+Now Navigate to Extensions Page and under Available tab, an Extension for Portworx will appear. Install the latest verion.
 
