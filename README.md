@@ -12,6 +12,7 @@ Provide a Name for the repository and select "Git repository containing helm cha
 Provide the following values:
 
 > Git Repo URL: https://github.com/portworx/px-rancher-extension.git
+
 > Git Branch: main
 
 Now click Create.
