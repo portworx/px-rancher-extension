@@ -12,6 +12,27 @@ entries:
       catalog.cattle.io/ui-component: plugins
       catalog.cattle.io/ui-extensions-version: '>= 3.0.0'
     apiVersion: v2
+    appVersion: 1.0.0-7c0e179
+    created: "2024-11-21T11:07:32.73428039Z"
+    description: Provides monitoring capabilities for Portworx storage in Rancher.
+    digest: 3739f23324706c1b812ed3cf3c3a28ba433f918ef19db1560235ad26d994f138
+    icon: https://central.portworx.com/assets/images/logo/small.svg
+    name: portworx
+    type: application
+    urls:
+    - assets/portworx/portworx-1.0.0-7c0e179.tgz
+    version: 1.0.0-7c0e179
+  - annotations:
+      catalog.cattle.io/certified: rancher
+      catalog.cattle.io/kube-version: '>= 1.16.0-0'
+      catalog.cattle.io/namespace: cattle-ui-plugin-system
+      catalog.cattle.io/os: linux
+      catalog.cattle.io/permits-os: linux, windows
+      catalog.cattle.io/rancher-version: '>= 2.10.0-0'
+      catalog.cattle.io/scope: management
+      catalog.cattle.io/ui-component: plugins
+      catalog.cattle.io/ui-extensions-version: '>= 3.0.0'
+    apiVersion: v2
     appVersion: 1.0.0-02228aa
     created: "2024-11-21T10:29:30.603711137Z"
     description: Provides monitoring capabilities for Portworx storage in Rancher.
@@ -245,4 +266,4 @@ entries:
     urls:
     - assets/portworx/portworx-0.1.0.tgz
     version: 0.1.0
-generated: "2024-11-21T10:29:30.603052684Z"
+generated: "2024-11-21T11:07:32.733460753Z"
