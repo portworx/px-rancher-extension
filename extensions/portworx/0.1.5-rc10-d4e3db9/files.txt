@@ -1,6 +1,0 @@
-plugin/img/small.091758ae.svg
-plugin/package.json
-plugin/portworx-0.1.5-rc10-d4e3db9.umd.min.437.js
-plugin/portworx-0.1.5-rc10-d4e3db9.umd.min.437.js.map
-plugin/portworx-0.1.5-rc10-d4e3db9.umd.min.js
-plugin/portworx-0.1.5-rc10-d4e3db9.umd.min.js.map

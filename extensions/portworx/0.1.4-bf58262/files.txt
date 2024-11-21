@@ -1,8 +1,0 @@
-plugin/img/small.dbd00fe4.svg
-plugin/package.json
-plugin/portworx-0.1.4-bf58262.umd.min.1.js
-plugin/portworx-0.1.4-bf58262.umd.min.1.js.map
-plugin/portworx-0.1.4-bf58262.umd.min.2.js
-plugin/portworx-0.1.4-bf58262.umd.min.2.js.map
-plugin/portworx-0.1.4-bf58262.umd.min.js
-plugin/portworx-0.1.4-bf58262.umd.min.js.map
